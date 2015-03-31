@@ -11,7 +11,7 @@ Hence kindly forgive me for the hackish code, and lack of tests.
 
 [On hind sight - container flood or docker rush would have been a better name.]
 
-[Screencast](https://asciinema.org/a/15752)
+[![asciicast](https://asciinema.org/a/15752.png)](https://asciinema.org/a/15752)
 
 ## Problem Statement
 
